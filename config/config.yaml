@@ -1,0 +1,17 @@
+data_path: data/archer_dataAnalisy8.xlsx
+
+color_to_target:
+  green: 2
+  purple: 3
+  red: 4
+
+categoricals:
+  - fish_id
+  - session
+  - color
+  - choice
+  - ta
+  - tp
+  - ch
+  - id
+  - radfix
